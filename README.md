@@ -7,6 +7,8 @@
  
 * RxJava+RxAndroid
  
+  [RxJava Essential中文翻译] (https://github.com/yuxingxin/RxJava-Essentials-CN)
+ 
 * 更深入理解自定义View
  
 * 动画
