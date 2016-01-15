@@ -10,7 +10,9 @@
 * 更深入理解自定义View
  
 * 动画
+
   对[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)的[学习笔记](https://github.com/basti-shi031/AnimationLoadingView)
+
   自己写的LoadingView [Github地址](https://github.com/basti-shi031/PacmanLoadingView)
  
 * Material Design的细节
