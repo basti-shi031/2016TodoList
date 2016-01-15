@@ -20,6 +20,8 @@
 * Material Design的细节
  
 * 巩固GreenDao框架的学习
+
+*Android M 权限管理 
  
 ### 其他
 复习一下算法和数据结构
