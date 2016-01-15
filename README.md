@@ -3,17 +3,17 @@
 
 ## TodoList
 ### Android
- MVP
+* MVP
  
- RxJava+RxAndroid
+* RxJava+RxAndroid
  
- 更深入理解自定义View
+* 更深入理解自定义View
  
- 动画:对[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)的[学习笔记](https://github.com/basti-shi031/AnimationLoadingView)
+* 动画
  
- Material Design的细节
+* Material Design的细节
  
-巩固GreenDao框架的学习
+* 巩固GreenDao框架的学习
  
 ### 其他
 复习一下算法和数据结构
