@@ -22,6 +22,8 @@
 * 巩固GreenDao框架的学习
 
 * Android M 权限管理 
+
+  [Demo地址](https://github.com/basti-shi031/PermissionsSample/blob/master/notes.md)
  
 ### 其他
 复习一下算法和数据结构
