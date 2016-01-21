@@ -10,6 +10,8 @@
   [RxJava Essential中文翻译] (https://github.com/yuxingxin/RxJava-Essentials-CN)
  
 * 更深入理解自定义View
+
+  [FabMenu](https://github.com/basti-shi031/FloatActionButtonMenu/tree/master)
  
 * 动画
 
@@ -18,6 +20,8 @@
   自己写的LoadingView [Github地址](https://github.com/basti-shi031/PacmanLoadingView)
  
 * Material Design的细节
+
+  对Fab控件的初步了解[FabMenu](https://github.com/basti-shi031/FloatActionButtonMenu/tree/master)
  
 * 巩固GreenDao框架的学习
 
