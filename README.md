@@ -35,7 +35,7 @@
   [LeakCanary](https://github.com/square/leakcanary)
 
 * 皮肤切换
-
+  [Demo](https://github.com/basti-shi031/SkinSelector/tree/master)
 
  
 ### 其他
