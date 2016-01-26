@@ -30,8 +30,13 @@
   [Demo地址](https://github.com/basti-shi031/PermissionsSample/blob/master/notes.md)
 
 * 性能和内存分析
+
   [BlockCanary](https://github.com/moduth/blockcanary)
   [LeakCanary](https://github.com/square/leakcanary)
+
+* 皮肤切换
+
+
  
 ### 其他
 复习一下算法和数据结构
