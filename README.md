@@ -35,8 +35,12 @@
   [LeakCanary](https://github.com/square/leakcanary)
 
 * 皮肤切换
+
   [Demo](https://github.com/basti-shi031/SkinSelector/tree/master)
 
+* 高亮指示
+
+  [Demo](https://github.com/hongyangAndroid/Highlight)
  
 ### 其他
 复习一下算法和数据结构
