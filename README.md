@@ -4,7 +4,8 @@
 ## TodoList
 ### Android
 * MVP
- 
+  [MVP+Retrofit+RxJava](https://github.com/basti-shi031/GankMVPSample)
+
 * RxJava+RxAndroid
  
   [RxJava Essential中文翻译] (https://github.com/yuxingxin/RxJava-Essentials-CN)
@@ -45,6 +46,7 @@
 * 毕业设计
  
 * Api
+
   [代码家干货集中营Api](http://gank.io/api)
 
 
