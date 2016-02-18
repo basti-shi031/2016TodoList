@@ -19,6 +19,8 @@
   对[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)的[学习笔记](https://github.com/basti-shi031/AnimationLoadingView)
 
   自己写的LoadingView [Github地址](https://github.com/basti-shi031/PacmanLoadingView)
+  
+  剑锋插针小游戏 [Github地址](https://github.com/basti-shi031/AASample/tree/master)
  
 * Material Design的细节
 
