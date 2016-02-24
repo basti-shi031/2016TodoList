@@ -26,7 +26,9 @@
 
   对Fab控件的初步了解[FabMenu](https://github.com/basti-shi031/FloatActionButtonMenu/tree/master)
  
-* 巩固GreenDao框架的学习
+* 巩固GreenDAO框架的学习
+
+  [GreenDAO Demo地址](https://github.com/basti-shi031/GreenDAOSample)
 
 * Android M 权限管理 
 
