@@ -52,7 +52,16 @@
 * Api
 
   [代码家干货集中营Api](http://gank.io/api)
+  
+* 书籍
 
+  * 《Android群英传》
+  * 《Android开发艺术探索》
+  * 《App研发录》
 
+* 新特性
+
+   [Support 23.2.0](https://github.com/basti-shi031/Support_23_2_0_Sample)
+   
 ### 其他
 复习一下算法和数据结构
