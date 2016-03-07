@@ -4,6 +4,7 @@
 ## TodoList
 ### Android
 * MVP
+
   [MVP+Retrofit+RxJava](https://github.com/basti-shi031/GankMVPSample)
 
 * RxJava+RxAndroid
@@ -13,6 +14,8 @@
 * 更深入理解自定义View
 
   [FabMenu](https://github.com/basti-shi031/FloatActionButtonMenu/tree/master)
+  
+  [基于ViewDraggHelper的View](https://github.com/basti-shi031/SlideCardView)
  
 * 动画
 
